@@ -1,0 +1,10 @@
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/CustomerAvroModel.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentResponseAvroModel.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalResponseAvroModel.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentOrderStatus.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/OrderApprovalStatus.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/Product.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantApprovalRequestAvroModel.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentStatus.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/PaymentRequestAvroModel.java
+/Users/manuel/Desktop/restaurant-spring-boot/microservice-event/food-ordering-system/infrastructure/kafka/kafka-model/src/main/java/com/food/ordering/system/kafka/order/avro/model/RestaurantOrderStatus.java
